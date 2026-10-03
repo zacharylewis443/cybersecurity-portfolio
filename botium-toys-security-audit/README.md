@@ -2,29 +2,29 @@
 
 ## Objective
 
-Conduct a simulated internal security audit of Botium Toys to evaluate
-existing security controls, identify security and compliance gaps, and
-recommend controls to reduce organizational risk.
+Conduct a simulated internal security audit of Botium Toys to evaluate existing security controls, identify security and compliance gaps, and recommend controls to reduce organizational risk and improve the company's security posture.
 
 ## Scenario
 
-Botium Toys is a fictional U.S.-based toy company with a physical
-storefront, office, warehouse, and growing international online presence.
-As the organization expanded, its IT environment required an internal
-security audit to evaluate its security posture and compliance requirements.
+Botium Toys is a fictional U.S.-based toy company with a physical office, storefront, warehouse, and a growing international online presence. As the organization expanded, its IT environment required an internal security audit to evaluate its security posture, identify potential risks to critical assets and business continuity, and assess relevant compliance requirements.
+
+This project was completed as part of the Google Cybersecurity Professional Certificate.
 
 ## Scope
 
-The assessment covered the organization's security program, including
-employee equipment and devices, internal network, systems, security
-controls, and relevant compliance practices.
+The assessment covered the organization's security program, including:
+
+- Employee equipment and devices
+- Internal network and systems
+- Administrative, technical, and physical security controls
+- Data protection and access-control practices
+- Relevant PCI DSS, GDPR, and SOC practices
 
 ## Methodology
 
-Reviewed the organization's existing security posture and evaluated
-administrative, technical, and physical controls. Assessed applicable
-compliance practices involving PCI DSS, GDPR, and SOC requirements,
-identified control gaps, and developed remediation recommendations.
+Reviewed the organization's existing security posture and evaluated whether key administrative, technical, and physical controls were implemented.
+
+Assessed relevant compliance practices involving PCI DSS, GDPR, and SOC requirements, identified security and compliance gaps, and developed remediation recommendations based on the findings.
 
 ## Key Findings
 
@@ -40,32 +40,40 @@ The assessment identified several security-control gaps, including:
 
 ## Risk & Compliance Considerations
 
-The assessment identified gaps involving:
+The assessment identified compliance and data-protection concerns involving:
 
-- PCI DSS security practices
-- Protection of EU customer data under GDPR
+- PCI DSS security practices for payment-card information
+- Protection of E.U. customer data under GDPR
 - User access policies
-- Confidentiality of PII/SPII
+- Confidentiality of personally identifiable information (PII) and sensitive personally identifiable information (SPII)
 
 ## Recommendations
 
-Recommended improvements included:
+Recommended security improvements included:
 
-- Restricting access to sensitive information according to least privilege
-- Developing a disaster recovery plan using established NIST frameworks
+- Restricting access to sensitive information according to the principle of least privilege
+- Developing a disaster recovery plan using established NIST frameworks as references
 - Strengthening separation of duties and role-based access
 - Implementing an intrusion detection system
 - Establishing automated backups for critical data
-- Implementing encryption for sensitive payment information
+- Implementing encryption to protect sensitive payment information
 - Establishing centralized password-management requirements
+- Strengthening policies and controls protecting PII/SPII
 
 ## Skills Demonstrated
 
-Security Auditing • Risk Assessment • Security Controls •
-Access Control • Least Privilege • Vulnerability Identification •
-PCI DSS • GDPR • SOC • NIST CSF • Security Documentation •
-Remediation Planning
+- Security Auditing
+- Risk Assessment
+- Security Controls
+- Access Control & Least Privilege
+- Vulnerability Identification
+- PCI DSS
+- GDPR
+- SOC
+- NIST Cybersecurity Framework (CSF)
+- Security Documentation
+- Remediation Planning
 
 ## Project Files
 
-- Security Audit & Risk Assessment Report
+[View the Security Audit & Risk Assessment Report](./botium-toys-security-audit-report.pdf)
